@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LoginAuthentication"
+    }
+  },
+  "defaultProject": "LoginAuthentication",
+  "cli": {
+    "analytics": "34efb851-b9f4-47eb-91f5-5f6a8fb4a60b"
+  }
 }
